@@ -170,6 +170,11 @@ section{
 	font-size:20px;
 }
 
+.goals {
+	background-color:white;
+	font-size:20px;
+}
+
 .footer{
 	background-color:#222222;
 }
@@ -210,13 +215,13 @@ section.footer{
 	width:100%;
 	position: relative;
 	overflow:hidden;
-	margin-bottom:10px;
+	margin-bottom:25px;
 }
 .row-container{
     float:left;
     width:100%;
     position:relative;
-    right:70%;
+    right:60%;
 }
 
 .left {
@@ -224,7 +229,7 @@ section.footer{
     float:left;
     width:30%;
     position:relative;
-    left:70%;
+    left:55%;
 }
 
 .right{
@@ -232,8 +237,8 @@ section.footer{
     width:50%;
     margin-left: 20px;
     position: relative;
-    left:70%;
-    text-align: left;
+    left:60%;
+    text-align: justify;
 }
 
 @media only screen and (min-width:769px) {
